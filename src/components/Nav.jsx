@@ -6,7 +6,7 @@ const Nav = () => {
     <div>
         
         
-        <nav class="navbar navbar-expand-lg bg-primary">
+        <nav class="navbar navbar-expand-lg bg-paleblue" >
                 <div class="container-fluid">
                     <a class="navbar-brand" href="#"><h2>FISAT STUDENT APP</h2></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
